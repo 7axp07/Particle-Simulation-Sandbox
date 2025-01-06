@@ -1,4 +1,7 @@
- Small particle simulation game inspired by "falling sand"-style games.
+Entirely own work, made for high school computer science classes.
+Java 10, should run fine on IntelliJ if libraries are installed.
+------------------------------------------------------------------
+Small particle simulation game inspired by "falling sand"-style games.
  Materials include:
  - water,
  - sand,
